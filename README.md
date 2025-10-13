@@ -30,6 +30,14 @@ const vishal = {
 
 ---
 
+## 💭 My Motto
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=600&lines=Code+is+poetry+written+in+logic;Building+the+future+one+line+at+a+time;Dream+it.+Code+it.+Ship+it." alt="Typing Effect Motto" />
+</p>
+
+---
+
 ## 🎶 Now Listening
 
 <p align="center">
@@ -50,14 +58,6 @@ const vishal = {
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
-</p>
-
-### 🗄️ Databases & Cloud
-
-<p align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
@@ -70,6 +70,41 @@ const vishal = {
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+</p>
+
+---
+
+## 🎮 Programming Memes & Fun Moments
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="300" alt="Coding GIF" />
+  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="300" alt="Bug Hunt GIF" />
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="300" alt="Coffee Code GIF" />
+  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="300" alt="Developer Life GIF" />
+</p>
+
+---
+
+## 💬 Random Programming Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+</p>
+
+---
+
+## 🦉 Current Mode Badge
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🌙_Night_Owl_Mode-Active-blueviolet?style=for-the-badge" alt="Night Owl Mode" />
+  <img src="https://img.shields.io/badge/⏰_Current_Time-IST-orange?style=for-the-badge" alt="Time Badge" />
+</p>
+
+<p align="center">
+  <sub>💡 <i>Night Owl (🌙) when it's evening/night | Early Bird (🌅) during morning hours!</i></sub>
 </p>
 
 ---
@@ -97,11 +132,6 @@ const vishal = {
 ## ✨ Tiny Hacks & Widgets
 
 <p align="center">
-  <!-- Animated Wave -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling" />
-</p>
-
-<p align="center">
   <!-- Profile Trophy -->
   <img src="https://github-profile-trophy.vercel.app/?username=vishalraut21066&theme=radical&no-frame=true&margin-w=15" alt="Trophies" />
 </p>
@@ -113,6 +143,17 @@ const vishal = {
 
 ---
 
+## 👋 Thanks for Stopping By!
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!+%F0%9F%91%8B;Let's+build+something+amazing!;Happy+Coding!+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!+👋;Let's+build+something+amazing!;Happy+Coding!+🚀;Keep+shipping+great+code!" alt="Goodbye Wave" />
+</p>
+
+<p align="center">
+  <!-- Animated Wave -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling" />
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif" width="150" alt="Wave Goodbye" />
 </p>
