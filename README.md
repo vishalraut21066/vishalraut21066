@@ -1,15 +1,7 @@
 <!-- Header with Typing Animation -->
-<h1 align="center">👋 Hi, I'm Vishal Raut</h1>
-
-<h3 align="center">Full Stack Developer | Tech Enthusiast | The Digital Architect</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Advanced+System+Design;Cloud+Architecture;Open+Source+Contributor" alt="Typing SVG" />
-</p>
-
-<!-- Profile Views Counter -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vishalraut21066&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/badge/dynamic/json?logo=todoist&logoColor=white&label=Live%20Visitors&query=$.count&url=https://api.countapi.xyz/hit/vishalraut21066/readme&color=blueviolet" alt="Live Visitors" />
 </p>
 
 ---
@@ -35,6 +27,16 @@ const vishal = {
 - 🤝 **Community Builder**: Believe in knowledge sharing and collaboration
 - 🎨 **Design Thinker**: Bridging the gap between functionality and aesthetics
 - ⚡ **Performance Optimizer**: Making applications fast and efficient
+
+---
+
+## 🎶 Now Listening
+
+<p align="center">
+  <a href="https://open.spotify.com/user/your_spotify_username">
+    <img src="https://novatorem-roan.vercel.app/api/spotify" alt="Spotify Now Playing" width="400" />
+  </a>
+</p>
 
 ---
 
@@ -72,6 +74,16 @@ const vishal = {
 
 ---
 
+## 🕹️ 3D Fun
+
+<p align="center">
+  <a href="https://my.spline.design/animatedcube-example" target="_blank">
+    <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="400" alt="3D Animation" />
+  </a>
+</p>
+
+---
+
 ## 📊 GitHub Analytics
 
 ### 📈 GitHub Stats
@@ -80,68 +92,27 @@ const vishal = {
   <img src="https://github-readme-stats.vercel.app/api?username=vishalraut21066&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
-### 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishalraut21066&theme=radical" alt="GitHub Streak" />
-</p>
-
-### 🐍 Contribution Snake Animation
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/vishalraut21066/vishalraut21066/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vishalraut21066&theme=radical&no-frame=true&row=1&column=7" alt="Trophies" />
-</p>
-
-### 📊 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vishalraut21066&theme=react-dark" alt="Activity Graph" />
-</p>
-
 ---
 
-## 🌟 Featured Projects
-
-### 🚀 Project Highlights
-
-| ### 🔥 Project Alpha<br>**🛠️ Tech Stack:** React, Node.js, MongoDB<br>✨ A revolutionary web application with modern UI/UX | ### ⚡ Project Beta<br>**🛠️ Tech Stack:** Next.js, TypeScript, PostgreSQL<br>🚀 High-performance application with advanced features |
-|---|---|
-
----
-
-## 🤝 Let's Connect & Collaborate
-
-### 🌐 Find Me Online
+## ✨ Tiny Hacks & Widgets
 
 <p align="center">
-  <a href="https://vishalraut2106.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://linkedin.com/in/rautvishal1" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://instagram.com/vishalraut.05" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://github.com/VishalRaut21066" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+  <!-- Animated Wave -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling" />
 </p>
 
-### 💬 Let's Build Something Amazing Together!
+<p align="center">
+  <!-- Profile Trophy -->
+  <img src="https://github-profile-trophy.vercel.app/?username=vishalraut21066&theme=radical&no-frame=true&margin-w=15" alt="Trophies" />
+</p>
 
 <p align="center">
-  <i>"Code is poetry written in logic"</i>
+  <!-- Animated Emoji -->
+  💻 🚀 ⚡ 🔥 🎯 ✨
 </p>
 
 ---
 
 <p align="center">
-  Made with ❤️ by Vishal Raut
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!+%F0%9F%91%8B;Let's+build+something+amazing!;Happy+Coding!+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
