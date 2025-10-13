@@ -1,9 +1,9 @@
 <!-- Header with Typing Animation -->
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vishalraut21066&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/badge/dynamic/json?logo=todoist&logoColor=white&label=Live%20Visitors&query=$.count&url=https://api.countapi.xyz/hit/vishalraut21066/readme&color=blueviolet" alt="Live Visitors" />
+  
 </p>
-
 ---
 
 ## 🚀 About Me - The Digital Architect
@@ -14,13 +14,13 @@ const vishal = {
   role: "Full Stack Developer & Tech Enthusiast",
   location: "India 🇮🇳",
   passions: ["Clean Code", "Innovation", "Problem Solving", "Open Source"],
-  currentlyLearning: "Advanced System Design & Cloud Architecture",
+  currentlyLearning: "LIFE",
   funFact: "I debug with console.log() and I'm not ashamed! 😄",
   lifePhilosophy: "Code is poetry written in logic"
 };
 ```
 
-### 💡 What Makes Me Unique:
+### 💡I'm :
 
 - 🎯 **Problem Solver**: I don't just write code, I craft solutions
 - 🌟 **Innovation Driver**: Always exploring cutting-edge technologies
@@ -74,6 +74,8 @@ const vishal = {
 
 ---
 
+---
+
 ## 🎮 Programming Memes & Fun Moments
 
 <p align="center">
@@ -109,7 +111,7 @@ const vishal = {
 
 ---
 
-## 🕹️ 3D Fun
+## 🕹️ all time
 
 <p align="center">
   <a href="https://my.spline.design/animatedcube-example" target="_blank">
