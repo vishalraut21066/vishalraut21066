@@ -42,6 +42,14 @@ src="https://img.shields.io/twitter/follow/VishalRaut2106?logo=twitter&style=for
 
 <a href="https://github.com/VishalRaut2106" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishalRaut2106&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vishalraut21066/vishalraut21066/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vishalraut21066/vishalraut21066/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/vishalraut21066/vishalraut21066/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
 ### Support Me
 
 <ul style="list-style-type: none; margin: 0;">
