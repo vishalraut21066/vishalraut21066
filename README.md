@@ -13,7 +13,7 @@
 - 🚀 Working on [codePVG](https://codepvg.vercel.app) — yes, it works most of the time 😅  
 - 📍 From Nashik, Maharashtra (where chai fuels innovation)  
 - ✉️ Hit me up: [vishalraut.contact@gmail.com](mailto:vishalraut.contact@gmail.com)  
-- 🌐 Portfolio: [vishalraut21066.vercel.app](https://vishalraut2106.vercel.app)  
+- 🌐 Portfolio: [vishalraut21066.vercel.app](https://vishalraut.me)  
 
 ---
 
